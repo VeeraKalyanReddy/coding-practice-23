@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.blog-item-details-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bid-author {
+  display: flex;
+  margin-right: 450px;
+}
+.bid-img {
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  text-align: left;
+}
+.image {
+  height: 350px;
+}
+.content {
+  color: #2f4f4f;
+  width: 620px;
+  font-size: 14px;
+}
